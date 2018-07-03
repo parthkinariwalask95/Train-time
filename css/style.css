@@ -1,0 +1,54 @@
+body{
+    background:black;
+}
+.jumbotron {
+	text-align: center;
+    background: blueviolet;
+    color:black;
+    border: 2px solid white;
+    
+}
+#trainTable {
+    font-family:Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border: 5px solid red;
+}
+
+#trainTable td, #trainTable th {
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color:goldenrod;
+    color:black;
+}
+.ctime{
+    background-color:tomato;
+    color:black;
+    border: 2px solid blueviolet;
+}
+
+
+#trainTable th {
+	height: 50px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: white;
+    color:black;
+}
+
+
+#min {
+	text-align: center;
+}
+
+.form1{
+    background-color:blueviolet;
+    color:black;
+    border: 5px solid yellow;
+
+}
+.add1{
+    background-color: rgb(25, 34, 25);
+    color: wheat;
+}
